@@ -628,6 +628,40 @@ Jede Auswertung und Weitergabe von Aufnahmen wird dokumentiert.
 Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Eine weitere Verarbeitung erfolgt nicht, sofern keine zwingenden schutzwürdigen Gründe für die Verarbeitung vorliegen, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.
 Soweit die Videoüberwachung dem Schutz der Briefkästen, Postsendungen und Pakete sowie der Aufklärung konkreter Vorfälle dient, kann ein Widerspruch dazu führen, dass die Nutzung des überwachten Bereichs eingeschränkt oder nicht möglich ist.
 
-9. Repräsentation des Vereinslebens
 
-Zur Erfüllung der Vereinssatzungssatzung zur Förderung von Studierenden ist es erstrebenswert, das Vereinsleben für nachkommende Generationen zu archivieren, unter anderem durch z.B. Fotos von Feiern. Hierfür wird allerdings stets das Einverständnis der betreffenden Person vorausgesetzt, womit die Rechtsgrundlage auf Art. 6 Abs. 1a DS-GVO basiert. Diese Fotos werden nur solange aufbewahrt, wie die betreffende Person zustimmt. Die Löschung dieser Daten ist jederzeit möglich.
+12. Repräsentation und Dokumentation des Vereinslebens
+
+
+12.1. Welche Daten erheben wir?
+
+Im Rahmen der Repräsentation und Dokumentation des Vereinslebens können Foto- und Videoaufnahmen von Vereinsveranstaltungen, Feiern, Aktionen oder sonstigen Aktivitäten des Vereins erstellt und gespeichert werden.
+Dabei können Bild- und Videoaufnahmen von Vereinsmitgliedern, Bewohnern oder sonstigen teilnehmenden Personen verarbeitet werden.
+
+
+12.2. Auf welcher Rechtsgrundlage geschieht dies?
+
+Die Verarbeitung und Speicherung von Foto- und Videoaufnahmen erfolgt grundsätzlich nur mit Einwilligung der betroffenen Person und damit auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO.
+
+
+12.3. Welchen Zweck erfüllt die Datenerhebung?
+
+Die Verarbeitung dient der Dokumentation, Archivierung und Repräsentation des Vereinslebens.
+Sie soll insbesondere dazu beitragen, die Vereinsgeschichte, Veranstaltungen und Aktivitäten des WEH e.V. für aktuelle und nachfolgende Generationen von Mitgliedern nachvollziehbar zu erhalten.
+
+
+12.4. Dauer der Datenspeicherung
+
+Foto- und Videoaufnahmen werden nur so lange personenbezogen gespeichert, wie die Einwilligung der betroffenen Person besteht.
+Wird die Einwilligung widerrufen, werden die betreffenden Aufnahmen gelöscht, soweit keine anderweitige Rechtsgrundlage für eine weitere Speicherung besteht.
+
+
+12.5. Wer hat Zugang zu den Daten?
+
+Zugriff auf die Foto- und Videoaufnahmen haben nur die für die Dokumentation, Archivierung oder Veröffentlichung zuständigen Personen des WEH e.V., soweit dies für den jeweiligen Zweck erforderlich ist.
+Eine Veröffentlichung oder Weitergabe erfolgt nur im Umfang der erteilten Einwilligung.
+
+
+12.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Die Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden. Nach Widerruf der Einwilligung werden die betreffenden Foto- und Videoaufnahmen gelöscht, soweit keine anderweitige Rechtsgrundlage für eine weitere Speicherung besteht.
+Eine bereits erfolgte rechtmäßige Verarbeitung bis zum Zeitpunkt des Widerrufs bleibt hiervon unberührt.
