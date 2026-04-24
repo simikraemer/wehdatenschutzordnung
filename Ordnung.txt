@@ -705,3 +705,43 @@ Technischen Zugriff auf die vollständigen Abstimmungsdaten hat aus administrati
 
 Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Durchführung, Nachvollziehbarkeit oder technische Absicherung der Abstimmung erforderlich ist, kann ein Widerspruch dazu führen, dass eine Teilnahme an der Abstimmung eingeschränkt oder nicht möglich ist.
 Betroffene Personen können im Rahmen der gesetzlichen Vorgaben Auskunft, Berichtigung oder Löschung der sie betreffenden Daten verlangen.
+
+
+14. Nutzung des Fahrradstellplatzsystems
+
+
+14.1. Welche Daten erheben wir?
+
+Im Fahrradstellplatzsystem werden Daten zur Vergabe und Verwaltung von Fahrradstellplätzen gespeichert. Hierzu gehören die Benutzerkennung, der Status der Anmeldung, der zugewiesene Stellplatz, der zugehörige Turm sowie Zeitpunkte zur Anmeldung, Zuweisung und Beendigung eines Stellplatzes.
+Sofern sich ein Mitglied auf die Warteliste für einen Fahrradstellplatz setzt, wird die Position in der Warteschlange gespeichert. Nach erfolgreicher Zuweisung wird der zugewiesene Fahrradstellplatz gespeichert.
+
+
+14.2. Auf welcher Rechtsgrundlage geschieht dies?
+
+Die Verarbeitung dieser Daten ist für die Bereitstellung und Verwaltung der Fahrradstellplätze erforderlich und erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO.
+Darüber hinaus besteht ein berechtigtes Interesse des Vereins an einer geordneten, nachvollziehbaren und fairen Vergabe der begrenzten Fahrradstellplätze. Die Verarbeitung erfolgt insoweit ergänzend auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
+
+
+14.3. Welchen Zweck erfüllt die Datenerhebung?
+
+Die Datenerhebung dient der Verwaltung der Fahrradstellplätze, der Führung der Warteschlange sowie der Zuordnung eines Stellplatzes zum jeweiligen Mitglied.
+Sie ermöglicht außerdem eine nachvollziehbare und faire Vergabe der verfügbaren Stellplätze sowie die organisatorische Betreuung durch die zuständige Fahrrad-AG.
+
+
+14.4. Dauer der Datenspeicherung
+
+Da Fahrradstellplätze in der Regel für die gesamte Wohndauer vergeben werden, werden die Daten bis zum Vereinsaustritt personenbezogen gespeichert.
+Mit dem Vereinsaustritt wird der Personenbezug entfernt, sodass die verbleibenden Daten nicht mehr dem ausgeschiedenen Mitglied zugeordnet werden können.
+
+
+14.5. Wer hat Zugang zu den Daten?
+
+Die betroffene Person kann ihren eigenen Platz in der Warteschlange sowie, nach erfolgreicher Zuweisung, ihren eigenen Fahrradstellplatz einsehen.
+Die Fahrrad-AG kann im Vereinsverwaltungssystem die für die Verwaltung der Fahrradstellplätze erforderlichen Daten einsehen, insbesondere Name und Zimmernummer der betreffenden Mitglieder.
+Technischen und administrativen Zugriff auf das Fahrradstellplatzsystem hat, soweit dies für Betrieb, Wartung oder Fehlerbehebung erforderlich ist, die Netz-AG des WEH e.V.
+
+
+14.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Vergabe, Verwaltung oder Nachvollziehbarkeit der Fahrradstellplätze erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung eines Fahrradstellplatzes eingeschränkt oder nicht möglich ist.
+Betroffene Personen können im Rahmen der gesetzlichen Vorgaben Auskunft, Berichtigung oder Löschung der sie betreffenden Daten verlangen.
