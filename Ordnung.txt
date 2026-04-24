@@ -167,50 +167,110 @@ Zugang zu diesen Daten haben der Vorstand, die Haussprecher und die Netzwerk-AG.
 Sie haben gemäß der DS-GVO das Recht Ihre Einwilligung bezüglich dieser Datenerhebung jederzeit zurückzuziehen. Ihre Daten werden dann gelöscht. Dies ist jedoch gleichbedeutend eines Vereinsaustrittes, woraufhin die von dem WEH e.V. angebotenen Leistungen nicht mehr genutzt werden können.
 
 
-4. Die Nutzung des von dem Verein eingerichtetes Internets sowie der Website und den Hausdrucker
+4. Nutzung der Webseiten des Vereins
 
 
 4.1. Welche Daten erheben wir?
 
-Wir erheben folgende Daten zu folgenden Zeitpunkten:
-
-·         Bei Zugriff auf die Website www.weh.rwth-aachen.de: Speicherung der IP-Adresse
-
-·        Bei der Nutzung des WLAN bzw. bei Login an einem Access-Point: Zeitpunkt des Logins, der Access-Point an welchem die Anmeldung erfolgte, Benutzername, IP-Adresse und die Mac-Adresse
-
-·         Während der Internetnutzung: Weitergabe der Mac-Adressen an einem DHCP-Server zur Zuweisung von IP-Adressen
-
-·         Bei Nutzung des Internets via LAN-Kabel: Anfertigung einer Traffic Statistic
-
-·         Bei der Nutzung des Vereinsnetzwerks: Es werden DNS-Anfragen protokolliert. Erfasst werden hierbei die aufgelösten Domainnamen, die zugehörigen Quell-IP-Adressen sowie der Zeitpunkt der Anfrage.
+Beim Zugriff auf Webseiten der vom Verein betriebenen Domains wird die IP-Adresse des zugreifenden Geräts gespeichert.
 
 
 4.2. Auf welcher Rechtsgrundlage geschieht dies?
 
-Die Erhebung der IP-Adresse bei Zugriff auf die Website basiert auf dem berechtigten sicherheitstechnischen Interesse und stützt sich somit auf Art. 6 Abs. 1f DS-GVO. Die Daten, welche im Zuge der Nutzung des von dem Verein organisiertem Internets automatisch erhoben werden, sind einerseits technisch notwendig (wie die Arbeit des DCHP-Server) und legitimieren sich somit aus Art. 6 Abs. 1b DS-GVO, dienen andererseits dem berechtigtem sicherheitstechnischem Interesses dieses Netzwerk vor Angriffen zu schützen und sind folglich in Art. 6 Abs. 1f DS-GVO abgewickelt.
-Die Speicherung der DNS-Logs erfolgt ergänzend auf Grundlage des berechtigten Interesses (Art. 6 Abs. 1 lit. f DS-GVO) sowie zur Erfüllung rechtlicher Verpflichtungen im Rahmen möglicher behördlicher Ermittlungen gemäß Art. 6 Abs. 1 lit. c DS-GVO.
+Die Erhebung der IP-Adresse erfolgt auf Grundlage des berechtigten Interesses des Vereins an einem sicheren und störungsfreien Betrieb seiner Webseiten gemäß Art. 6 Abs. 1 lit. f DSGVO.
 
 
 4.3. Welchen Zweck erfüllt die Datenerhebung?
 
-Zum einem ist die Datenerhebung technisch für die Bereitstellung des Internets notwendig, wie die Weitergabe der Mac-Adresse an den DHCP-Server. Zum anderen setzt der Verein sich das Ziel ein sicheres Internet sowie eine sichere Website breitzustellen. Zur Gewährleistung dieser Ziele ist diese Datenerhebung notwendig (Siehe 4.2)
-Die DNS-Logs dienen dabei insbesondere der Erkennung und Nachverfolgung von sicherheitsrelevanten Vorfällen.
+Die Datenerhebung dient der technischen Bereitstellung, der Fehleranalyse sowie der Erkennung und Nachverfolgung sicherheitsrelevanter Vorfälle im Zusammenhang mit den Webseiten des Vereins.
 
 
 4.4. Dauer der Datenspeicherung
 
-Die beim Zugriff auf die Website erhobenen Daten werden 2 Wochen lang gespeichert. Die Informationen aus den Anmeldungen an den WLAN Access-Points werden für eine Woche aufgehoben, sicherheitskritische Eingriffe allerdings für einen Monat vermerkt. Der Zeitpunkt der letzten Authentifizierung über eine WLAN-Access-Point-Anmeldung wird während der gesamten Mitgliedschaftsdauer jedes Mitglieds festgehalten. Die Traffic-Statistik ist für 2 Jahre verfügbar und wird anschließend gelöscht. Die DNS-Logs werden bis zu 2 Wochen lang gespeichert.
+Die beim Zugriff auf die Webseiten erhobenen Daten werden bis zu zwei Wochen lang gespeichert.
 
 
-4.5. Wer Hat Zugang zu den Daten?
+4.5. Wer hat Zugang zu den Daten?
 
-Zugriff auf diese Daten hat allein die Netz-AG des WEH e.V.
-Die Auswertung erfolgt ausschließlich im Anlassfall und unter Beachtung der datenschutzrechtlichen Vorgaben.
+Zugriff auf diese Daten haben ausschließlich die für den Betrieb und die Sicherheit der Webseiten zuständigen Administratoren des WEH e.V. Eine Auswertung erfolgt ausschließlich anlassbezogen und unter Beachtung der datenschutzrechtlichen Vorgaben.
 
 
 4.6. Widerspruchs- und Beseitigungsmöglichkeit
 
-Es besteht gemäß der DS-GVO ein Widerspruchsrecht. Da die Nutzung aller Dienstleitungen des Vereins auf der vereinseigenen Website bzw. auf dem von dem Verein gestellten Internet basieren, stellt sich bei einem Widerspruch allerdings die Frage, inwieweit eine weitere Vereinsmitgliedschaft sich als sinnvoll gestaltet. Möglicherweise ist die Folge somit ein Vereinsausschluss. Wird Widerspruch gegen die Website ausgesprochen, kann, da die Maßnahmen technisch notwendig sind um eine sichere Website zu garantieren, der Zugriff auf die Website infolge verwehrt werden.
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung für den sicheren und störungsfreien Betrieb der Webseiten technisch erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung der betroffenen Webseiten eingeschränkt oder nicht möglich ist.
+
+
+5. Nutzung des Vereinsnetzwerks
+
+
+5.1. Welche Daten erheben wir?
+
+Bei der Nutzung des WLANs bzw. beim Login an einem Access Point über RADIUS werden der Zeitpunkt des Logins, der Access Point, an dem die Anmeldung erfolgte, der Benutzername, die IP-Adresse sowie die MAC-Adresse des verwendeten Geräts gespeichert.
+Während der Internetnutzung wird die MAC-Adresse des verwendeten Geräts an einen DHCP-Server übermittelt, um dem Gerät eine IP-Adresse zuzuweisen.
+Bei Nutzung des vereinseigenen DNS-Servers werden DNS-Anfragen protokolliert; erfasst werden dabei die aufgelösten Domainnamen, die zugehörigen Quell-IP-Adressen sowie der Zeitpunkt der Anfrage.
+
+
+5.2. Auf welcher Rechtsgrundlage geschieht dies?
+
+Die im Rahmen der Nutzung des Vereinsnetzwerks erhobenen Daten sind teilweise technisch für die Bereitstellung des Internetzugangs erforderlich und werden insoweit auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO verarbeitet. Darüber hinaus erfolgt die Verarbeitung auf Grundlage des berechtigten Interesses des Vereins an einem sicheren und funktionsfähigen Netzwerk gemäß Art. 6 Abs. 1 lit. f DSGVO.
+Die Speicherung der DNS-Protokolldaten erfolgt ergänzend auf Grundlage des berechtigten Interesses gemäß Art. 6 Abs. 1 lit. f DSGVO sowie, soweit erforderlich, zur Erfüllung rechtlicher Verpflichtungen im Rahmen behördlicher Ermittlungen gemäß Art. 6 Abs. 1 lit. c DSGVO.
+
+
+5.3. Welchen Zweck erfüllt die Datenerhebung?
+
+Die Datenerhebung ist technisch für die Bereitstellung des Internetzugangs erforderlich, insbesondere zur Zuweisung von IP-Adressen durch den DHCP-Server und zur Authentifizierung im WLAN.
+Darüber hinaus dient sie der Sicherheit des Vereinsnetzwerks sowie der Erkennung und Nachverfolgung sicherheitsrelevanter Vorfälle.
+Der Zeitpunkt der letzten WLAN-Authentifizierung wird erfasst, um die letzte Netzwerkaktivität von Mitgliedern zu überprüfen und zu verhindern, dass noch aktive Nutzer durch fehlerhaft ausgefüllte Neuanmeldungen irrtümlich ihren Internetzugang verlieren.
+
+
+5.4. Dauer der Datenspeicherung
+
+Die Informationen aus den Anmeldungen an den WLAN Access Points werden für eine Woche gespeichert.
+Der Zeitpunkt der letzten Authentifizierung über eine WLAN-Access-Point-Anmeldung wird bis zum Vereinsaustritt gespeichert.
+Die DNS-Protokolldaten werden bis zu zwei Wochen lang gespeichert.
+
+
+5.5. Wer hat Zugang zu den Daten?
+
+Zugriff auf diese Daten hat ausschließlich die Netz-AG des WEH e.V.; Mitglieder können darüber hinaus ihre eigenen DHCP- und RADIUS-Logs zur eigenständigen Fehleranalyse einsehen. Eine Auswertung erfolgt ausschließlich anlassbezogen und unter Beachtung der datenschutzrechtlichen Vorgaben.
+
+5.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, Sicherheit oder Funktionsfähigkeit des Vereinsnetzwerks technisch erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des Vereinsnetzwerks eingeschränkt oder nicht möglich ist.
+
+
+6. Nutzung des Hausdruckers
+
+
+6.1. Welche Daten erheben wir?
+
+Bei der Nutzung des Hausdruckers werden die Benutzer-ID, der Zeitpunkt des Druckauftrags, der verwendete Drucker, der Titel des Druckauftrags bzw. Dokuments, die geplante Seitenanzahl, die tatsächlich gedruckte Seitenanzahl sowie die gewählten Druckeinstellungen wie Duplex- oder Farbdruck gespeichert.
+
+
+6.2. Auf welcher Rechtsgrundlage geschieht dies?
+
+Die Verarbeitung dieser Daten ist für die Bereitstellung und Abrechnung der Druckfunktion erforderlich und erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO. Darüber hinaus erfolgt die Verarbeitung auf Grundlage des berechtigten Interesses des Vereins an einem ordnungsgemäßen Betrieb, der Fehleranalyse und der Nachvollziehbarkeit von Druckaufträgen gemäß Art. 6 Abs. 1 lit. f DSGVO.
+
+
+6.3. Welchen Zweck erfüllt die Datenerhebung?
+
+Die Datenerhebung dient der Zuordnung und Abrechnung von Druckaufträgen zum jeweiligen Nutzerkonto sowie der Nachverfolgung und Fehleranalyse bei Problemen mit Druckaufträgen oder dem Hausdrucker.
+
+
+6.4. Dauer der Datenspeicherung
+
+Die gespeicherten Druckaufträge sind Bestandteil der nutzerbezogenen Abrechnung und des jeweiligen Mitgliederguthabens. Sie werden daher bis zum Vereinsaustritt gespeichert und anschließend gelöscht.
+
+
+6.5. Wer hat Zugang zu den Daten?
+
+Zugriff auf diese Daten haben, soweit dies für Betrieb, Abrechnung oder Fehleranalyse erforderlich ist, die Netz-AG, der Vorstand, die Haussprecher sowie die Kassenwarte des WEH e.V.
+
+
+6.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, Abrechnung oder Nachvollziehbarkeit der Druckfunktion erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des Hausdruckers eingeschränkt oder nicht möglich ist.
+
 
 
 5. Die Nutzung des von dem Verein angebotenen Waschsystem
