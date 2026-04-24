@@ -916,3 +916,48 @@ Administrativer Zugriff durch die Netz-AG des WEH e.V. erfolgt nur, soweit dies 
 
 Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, den Betrieb, die Rechteverwaltung oder die Sicherheit der Cloud erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung der vereinsinternen Cloud eingeschränkt oder nicht möglich ist.
 Mitglieder können ihre in der Cloud gespeicherten eigenen Dateien grundsätzlich selbst löschen. Nach Beendigung der Nutzung oder nach Ablauf der oben genannten Fristen wird das zugehörige Benutzerkonto gelöscht, sofern keine weitere Speicherung ausdrücklich gewünscht oder rechtlich erforderlich ist.
+
+
+19. Vereinssperren
+
+
+19.1. Welche Daten erheben wir?
+
+Zur Umsetzung von Vereinssperren werden die Benutzer-ID der betroffenen Person, der Zeitpunkt der Eintragung, der Beginn und das Ende der Sperre, die eintragende oder bearbeitende Person sowie eine Beschreibung der Maßnahme gespeichert.
+Außerdem wird gespeichert, welche Vereinsdienste oder Vereinseinrichtungen von der Sperre betroffen sind. Hierzu können insbesondere Mail, Internet, Waschsystem, Raumbuchungssystem, Drucksystem oder Werkzeugbuchung gehören.
+Soweit eine Sperre im Zusammenhang mit versäumten Terminen, ausstehenden Zahlungen oder sonstigen nach dem Maßnahmenkatalog relevanten Vorgängen steht, kann auch diese Zuordnung gespeichert werden.
+
+
+19.2. Auf welcher Rechtsgrundlage geschieht dies?
+
+Die Verarbeitung dieser Daten erfolgt zur Durchführung und Durchsetzung der vereinsinternen Regelungen und Maßnahmen gemäß dem geltenden Maßnahmenkatalog.
+Soweit die Verarbeitung für die Organisation der Mitgliedschaft, die Nutzung von Vereinsdiensten oder die Durchsetzung vereinsinterner Regelungen erforderlich ist, erfolgt sie auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO.
+Darüber hinaus besteht ein berechtigtes Interesse des Vereins an einem geordneten Vereinsbetrieb, der fairen Nutzung gemeinschaftlicher Einrichtungen sowie der Nachvollziehbarkeit verhängter Maßnahmen gemäß Art. 6 Abs. 1 lit. f DSGVO.
+
+
+19.3. Welchen Zweck erfüllt die Datenerhebung?
+
+Die Datenerhebung dient der technischen und organisatorischen Umsetzung von Vereinssperren für einzelne Vereinsdienste oder Vereinseinrichtungen.
+Sie ermöglicht es, bestehende Sperren nachvollziehbar zu verwalten, deren Beginn und Ende zu kontrollieren und sicherzustellen, dass Maßnahmen entsprechend dem Maßnahmenkatalog umgesetzt werden.
+Darüber hinaus dient die Speicherung der Nachvollziehbarkeit früherer Maßnahmen während der Mitgliedschaft.
+
+
+19.4. Dauer der Datenspeicherung
+
+Die Daten zu Vereinssperren werden bis zum Vereinsaustritt personenbezogen gespeichert.
+Mit dem Vereinsaustritt wird der Personenbezug entfernt, sodass die verbleibenden Daten nicht mehr dem ausgeschiedenen Mitglied zugeordnet werden können.
+Eine längere personenbezogene Speicherung erfolgt nur, soweit dies im Einzelfall zur Klärung offener Vorgänge, zur Durchsetzung von Ansprüchen oder zur Erfüllung rechtlicher Pflichten erforderlich ist.
+
+
+19.5. Wer hat Zugang zu den Daten?
+
+Zugriff auf die Daten haben, soweit dies für Eintragung, Prüfung, Umsetzung oder Nachvollziehbarkeit der Sperren erforderlich ist, der Vorstand und die für die jeweilige Maßnahme zuständigen Stellen des WEH e.V.
+Die jeweils zuständigen Arbeitsgruppen können einsehen, ob für den von ihnen betreuten Dienst oder die von ihnen betreute Einrichtung eine Sperre besteht, soweit dies für die Umsetzung der Sperre erforderlich ist.
+Technischen und administrativen Zugriff hat, soweit dies für Betrieb, Wartung oder Fehlerbehebung erforderlich ist, die Netz-AG des WEH e.V.
+
+
+19.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen.
+Soweit die Verarbeitung bestimmter Daten für die Umsetzung, Nachvollziehbarkeit oder Durchsetzung einer Vereinssperre erforderlich ist, kann eine Löschung oder Einschränkung der Verarbeitung erst erfolgen, wenn keine entgegenstehenden vereinsbezogenen oder rechtlichen Gründe mehr bestehen.
+Betroffene Personen können im Rahmen der gesetzlichen Vorgaben Auskunft, Berichtigung oder Löschung der sie betreffenden Daten verlangen.
