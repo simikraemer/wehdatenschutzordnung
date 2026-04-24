@@ -431,129 +431,202 @@ Die auf der vereinsinternen Webseite veröffentlichte AG-Liste ist innerhalb des
 Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Veröffentlichung von Name und Zimmernummer für die Erreichbarkeit und Ausübung des jeweiligen AG-Postens erforderlich ist, kann ein Widerspruch dazu führen, dass die Tätigkeit in der jeweiligen AG nicht oder nur eingeschränkt ausgeübt werden kann.
 
 
-8. Kameraüberwachung
+11. Kameraüberwachung
 
 
-8.A. Kameraüberwachung des Waschkellers
+11.A. Kameraüberwachung des Waschkellers
 
 
-8.A.1. Welche Daten erheben wir?
+11.A.1. Welche Daten erheben wir?
 
-Der Waschkeller wird mit Fokus auf die Eingangstür videoüberwacht.
+Der Waschkeller wird mit Fokus auf die Eingangstür videoüberwacht. Dabei werden Bildaufnahmen der Personen erfasst, die den überwachten Bereich betreten oder sich dort aufhalten.
 
 
-8.A.2. Auf welcher Rechtsgrundlage geschieht dies?
+11.A.2. Auf welcher Rechtsgrundlage geschieht dies?
 
-Die Aufnahmen werden aufgrund des berechtigten Interesses zum Schutz der vereinseigenen Waschmaschinen, Trockner und Spülmaschinen vor Diebstahl und Vandalismus erstellt. Damit ist Art. 6 Abs. 1f der DS-GVO die Rechtsgrundlage dieser Videoüberwachung. Die besondere Gefährdung dieses Vereinseigentumes resultiert aus der Tatsache, dass in der Vergangenheit bereits Waschmaschinen und Trockner gestohlen wurden.
+Die Videoüberwachung erfolgt auf Grundlage des berechtigten Interesses des Vereins am Schutz der vereinseigenen Waschmaschinen, Trockner und Spülmaschinen vor Diebstahl und Vandalismus gemäß Art. 6 Abs. 1 lit. f DSGVO.
+Das berechtigte Interesse ergibt sich insbesondere daraus, dass es sich um Vereinseigentum handelt und in der Vergangenheit bereits Waschmaschinen und Trockner gestohlen wurden.
 
 
-8.A.3. Welchen Zweck erfüllt die Datenerhebung?
+11.A.3. Welchen Zweck erfüllt die Datenerhebung?
 
-Die Kameraüberwachung dient dem Zweck im Falle eines Diebstahles von Waschmaschinen, Trockner oder der Spülmaschine sowie deren Einzelteile und Vandalismus Beweismaterial zu sammeln und so den Diebstahl bzw. den Vandalismus aufzuklären. Zudem hat die Kamera durch Abschreckung eine vorbeugende Wirkung.
+Die Kameraüberwachung dient der Abschreckung sowie der Aufklärung von Diebstahl, Vandalismus oder sonstigen Beschädigungen an Waschmaschinen, Trocknern, Spülmaschinen oder deren Bestandteilen.
+Im Anlassfall können die Aufnahmen zur Nachverfolgung des Vorfalls und zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen verwendet werden.
 
 
-8.A.4. Wie lang werden die Daten gespeichert?
+11.A.4. Dauer der Datenspeicherung
 
-Die Aufnahmen werden 7 Tage aufbewahrt und anschließend gelöscht. Dies wird damit begründet, dass sich durch die ehrenamtliche Tätigkeit keine Verpflichtung zu einer ständigen Verfügbarkeit ableiten lässt. Folglich ist eine gewisse Reaktionszeit konservativ abzuschätzen, um den oben genannten Zweck zu erfüllen.
+Die Aufnahmen werden für sieben Tage gespeichert und anschließend gelöscht.
+Eine längere Speicherung erfolgt nur, soweit dies im Einzelfall zur Aufklärung eines konkreten Vorfalls, zur Beweissicherung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist.
 
 
-8.A.5. Wer hat Zugang zu den Daten?
+11.A.5. Wer hat Zugang zu den Daten?
 
-Zugriff auf die Daten hat ausschließlich der Vorstand des WEH e.V., der AG-Sprecher der Wasch-AG und die Netzwerk-AG aus verwaltungstechnischen Gründen., wobei bei dessen Auswertung ein konkreter Anlass wie Diebstahl oder Vandalismus vorliegen muss. Zudem wird ein Verzeichnis zur Auswertung der Aufnahmen geführt. Der Vorstand behält sich das Recht ein, Dritte, soweit es die Situation erfordert, Einsicht in das Videomaterial zu gewähren.
+Technischen Zugriff auf die Aufnahmen hat ausschließlich die Netz-AG des WEH e.V.
+Eine Auswertung erfolgt ausschließlich anlassbezogen und unter Beachtung der datenschutzrechtlichen Vorgaben. Bei berechtigtem Interesse ist die Netz-AG auf begründeten Wunsch der zuständigen Wasch-AG oder des Vorstands angehalten, die Aufnahmen zu prüfen und relevante Aufnahmen zur weiteren Klärung an die Wasch-AG oder den Vorstand weiterzugeben.
+Jede Auswertung und Weitergabe von Aufnahmen wird dokumentiert.
 
 
-8.A.6. Widerspruchs- und Beseitigungsmöglichkeit
+11.A.6. Widerspruchs- und Beseitigungsmöglichkeit
 
-Gemäß der DS-GVO haben Sie ein Widerspruchsrecht. Eine weitere Verarbeitung der personenbezogenen Daten erfolgt nicht mehr, es sei denn, für die Verarbeitung liegen zwingende schutzwürdige Gründe für die Verarbeitung vor, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. (vgl. Art. 21 (1) DS-GVO)
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Eine weitere Verarbeitung erfolgt nicht, sofern keine zwingenden schutzwürdigen Gründe für die Verarbeitung vorliegen, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.
+Soweit die Videoüberwachung dem Schutz des Vereinseigentums und der Aufklärung konkreter Vorfälle dient, kann ein Widerspruch dazu führen, dass die Nutzung des überwachten Bereichs eingeschränkt oder nicht möglich ist.
 
 
-8.B. Kameraüberwachung des Lernraums
+11.B. Kameraüberwachung des Lernraums
 
 
-8.B.1. Welche Daten erheben wir?
+11.B.1. Welche Daten erheben wir?
 
-Der Lernraum wird mit Fokus auf den Druckerschrank videoüberwacht.
+Der Lernraum wird mit Fokus auf den Druckerschrank videoüberwacht. Dabei werden Bildaufnahmen der Personen erfasst, die den überwachten Bereich betreten oder sich dort aufhalten.
 
 
-8.B.2. Auf welcher Rechtsgrundlage geschieht dies?
+11.B.2. Auf welcher Rechtsgrundlage geschieht dies?
 
-Die Aufnahmen werden aufgrund des berechtigten Interesses zum Schutz der vereinseigenen Drucker und Zubehör vor Diebstahl und Vandalismus erstellt. Damit ist Art. 6 Abs. 1f der DS-GVO die Rechtsgrundlage dieser Videoüberwachung. Die besondere Gefährdung dieses Vereinseigentumes resultiert aus der Tatsache, dass in der Vergangenheit bereits am Druckerschrank vandalisiert wurde.
+Die Videoüberwachung erfolgt auf Grundlage des berechtigten Interesses des Vereins am Schutz der vereinseigenen Drucker, des Zubehörs und der zugehörigen Ausstattung vor Diebstahl, Vandalismus und Beschädigung gemäß Art. 6 Abs. 1 lit. f DSGVO.
+Das berechtigte Interesse ergibt sich insbesondere daraus, dass es sich um Vereinseigentum handelt und in der Vergangenheit bereits Vandalismus am Druckerschrank vorgefallen ist.
 
 
-8.B.3. Welchen Zweck erfüllt die Datenerhebung?
+11.B.3. Welchen Zweck erfüllt die Datenerhebung?
 
-Die Kameraüberwachung dient dem Zweck, im Falle eines Diebstahles von Druckern sowie deren Einzelteile und Zubehör und Vandalismus Beweismaterial zu sammeln und so den Diebstahl bzw. den Vandalismus intern aufzuklären. Zudem hat die Kamera durch Abschreckung eine vorbeugende Wirkung.
+Die Kameraüberwachung dient der Abschreckung sowie der Aufklärung von Diebstahl, Vandalismus oder sonstigen Beschädigungen an Druckern, Zubehör oder sonstiger Ausstattung des Druckerschranks.
+Im Anlassfall können die Aufnahmen zur Nachverfolgung des Vorfalls und zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen verwendet werden.
 
 
-8.B.4. Wie lang werden die Daten gespeichert?
+11.B.4. Dauer der Datenspeicherung
 
-Die Aufnahmen werden 7 Tage aufbewahrt und anschließend gelöscht. Dies wird damit begründet, dass sich durch die ehrenamtliche Tätigkeit keine Verpflichtung zu einer ständigen Verfügbarkeit ableiten lässt. Folglich ist eine gewisse Reaktionszeit konservativ abzuschätzen, um den oben genannten Zweck zu erfüllen.
+Die Aufnahmen werden für sieben Tage gespeichert und anschließend gelöscht.
+Eine längere Speicherung erfolgt nur, soweit dies im Einzelfall zur Aufklärung eines konkreten Vorfalls, zur Beweissicherung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist.
 
 
-8.B.5. Wer hat Zugang zu den Daten?
+11.B.5. Wer hat Zugang zu den Daten?
 
-Zugriff auf die Daten hat ausschließlich der Vorstand des WEH e.V. und die Netzwerk-AG aus verwaltungstechnischen Gründen, wobei bei dessen Auswertung ein konkreter Anlass wie Diebstahl oder Vandalismus vorliegen muss. Zudem wird ein Verzeichnis zur Auswertung der Aufnahmen geführt. Der Vorstand behält sich das Recht ein, Dritte, soweit es die Situation erfordert, Einsicht in das Videomaterial zu gewähren.
+Technischen Zugriff auf die Aufnahmen hat ausschließlich die Netz-AG des WEH e.V.
+Eine Auswertung erfolgt ausschließlich anlassbezogen und unter Beachtung der datenschutzrechtlichen Vorgaben. Bei berechtigtem Interesse ist die Netz-AG auf begründeten Wunsch der zuständigen Drucker-AG oder des Vorstands angehalten, die Aufnahmen zu prüfen und relevante Aufnahmen zur weiteren Klärung an die Drucker-AG oder den Vorstand weiterzugeben.
+Jede Auswertung und Weitergabe von Aufnahmen wird dokumentiert.
 
 
-8.B.6. Widerspruchs- und Beseitigungsmöglichkeit
+11.B.6. Widerspruchs- und Beseitigungsmöglichkeit
 
-Gemäß der DS-GVO haben Sie ein Widerspruchsrecht. Eine weitere Verarbeitung der personenbezogenen Daten erfolgt nicht mehr, es sei denn, für die Verarbeitung liegen zwingende schutzwürdige Gründe für die Verarbeitung vor, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. (vgl. Art. 21 (1) DS-GVO )
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Eine weitere Verarbeitung erfolgt nicht, sofern keine zwingenden schutzwürdigen Gründe für die Verarbeitung vorliegen, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.
+Soweit die Videoüberwachung dem Schutz des Vereinseigentums und der Aufklärung konkreter Vorfälle dient, kann ein Widerspruch dazu führen, dass die Nutzung des überwachten Bereichs eingeschränkt oder nicht möglich ist.
 
 
-8.B.7. Recht auf Auskunft
+11.C. Kameraüberwachung des Fahrradkellers
 
-Gemäß der DS-GVO haben Sie ein Recht auf Auskunft seitens des Verantwortlichen über die betreffenden personenbezogenen Daten (Art. 13, Abs. 2, lit. b der DS-GVO). Der Vorstand ist diesbezüglich berechtigt und verantwortlich diese Auskunft zu gewährleisten.
 
+11.C.1. Welche Daten erheben wir?
 
-8.B.8. Vertragliche Bereitstellung der Daten
+Der Fahrradkeller wird mit Beschränkung auf die Fahrradstellplätze videoüberwacht. Dabei werden Bildaufnahmen der Personen erfasst, die den überwachten Bereich betreten oder sich dort aufhalten.
 
-Durch Betreten des Lernraums erklären Sie sich bereit diese auf Sie personenbezogenen Daten uns bereitzustellen. Auf diese Erklärung wird ausdrücklich anhand von Beschilderung hingewiesen.
-Auf erklärte Nichtbereitstellung dieser Daten erfolgt ein Verbot der Nutzung des Lernraums.
 
+11.C.2. Auf welcher Rechtsgrundlage geschieht dies?
 
-8.C Kameraüberwachung des Fahrradkellers
+Die Videoüberwachung erfolgt auf Grundlage des berechtigten Interesses des Vereins und der Vereinsmitglieder am Schutz der dort abgestellten Fahrräder vor Diebstahl, Vandalismus und Beschädigung gemäß Art. 6 Abs. 1 lit. f DSGVO.
+Das berechtigte Interesse ergibt sich insbesondere daraus, dass in der Vergangenheit bereits Fahrräder aus dem Keller gestohlen wurden.
 
 
-8.C.1. Welche Daten erheben wir?
+11.C.3. Welchen Zweck erfüllt die Datenerhebung?
 
-Der Kellerbereich wird mit Beschränkung auf die Fahrradstellplätze videoüberwacht.
+Die Kameraüberwachung dient der Abschreckung sowie der Aufklärung von Diebstahl, Vandalismus oder sonstigen Beschädigungen im Bereich der Fahrradstellplätze.
+Im Anlassfall können die Aufnahmen zur Nachverfolgung des Vorfalls und zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen verwendet werden.
 
 
-8.C.2. Auf welcher Rechtsgrundlage geschieht dies?
+11.C.4. Dauer der Datenspeicherung
 
-Die Aufnahmen werden aufgrund des berechtigten Interesses zum Schutz der Fahrräder von Vereinsmitgliedern vor Diebstahl und Vandalismus erstellt. Damit ist Art. 6 Abs. 1f der DS-GVO die Rechtsgrundlage dieser Videoüberwachung. Die besondere Gefährdung der Fahrräder resultiert aus der Tatsache, dass in der Vergangenheit bereits Fahrräder aus dem Keller gestohlen wurden.
+Die Aufnahmen werden für sieben Tage gespeichert und anschließend gelöscht.
+Eine längere Speicherung erfolgt nur, soweit dies im Einzelfall zur Aufklärung eines konkreten Vorfalls, zur Beweissicherung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist.
 
 
-8.C.3. Welchen Zweck erfüllt die Datenerhebung?
+11.C.5. Wer hat Zugang zu den Daten?
 
-Die Kameraüberwachung dient dem Zweck, im Falle eines Diebstahles oder Vandalismus von Fahrrädern Beweismaterial zu sammeln und so den Diebstahl bzw. den Vandalismus intern aufzuklären. Zudem hat die Kamera durch Abschreckung eine vorbeugende Wirkung.
+Technischen Zugriff auf die Aufnahmen hat ausschließlich die Netz-AG des WEH e.V.
+Eine Auswertung erfolgt ausschließlich anlassbezogen und unter Beachtung der datenschutzrechtlichen Vorgaben. Bei berechtigtem Interesse ist die Netz-AG auf begründeten Wunsch der zuständigen Fahrrad-AG oder des Vorstands angehalten, die Aufnahmen zu prüfen und relevante Aufnahmen zur weiteren Klärung an die Fahrrad-AG oder den Vorstand weiterzugeben.
+Jede Auswertung und Weitergabe von Aufnahmen wird dokumentiert.
 
 
-8.C.4. Wie lang werden die Daten gespeichert?
+11.C.6. Widerspruchs- und Beseitigungsmöglichkeit
 
-Die Aufnahmen werden 7 Tage aufbewahrt und anschließend gelöscht. Dies wird damit begründet, dass sich durch die ehrenamtliche Tätigkeit keine Verpflichtung zu einer ständigen Verfügbarkeit ableiten lässt. Folglich ist eine gewisse Reaktionszeit konservativ abzuschätzen, um den oben genannten Zweck zu erfüllen.
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Eine weitere Verarbeitung erfolgt nicht, sofern keine zwingenden schutzwürdigen Gründe für die Verarbeitung vorliegen, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.
+Soweit die Videoüberwachung dem Schutz der abgestellten Fahrräder und der Aufklärung konkreter Vorfälle dient, kann ein Widerspruch dazu führen, dass die Nutzung des überwachten Bereichs eingeschränkt oder nicht möglich ist.
 
 
-8.C.5. Wer hat Zugang zu den Daten?
+11.D. Kameraüberwachung des Serverraums
 
-Zugriff auf die Daten hat ausschließlich der Vorstand des WEH e.V. und die Netzwerk-AG aus verwaltungstechnischen Gründen, wobei bei dessen Auswertung ein konkreter Anlass wie Diebstahl oder Vandalismus vorliegen muss. Zudem wird ein Verzeichnis zur Auswertung der Aufnahmen geführt. Der Vorstand behält sich das Recht ein, Dritte, soweit es die Situation erfordert, Einsicht in das Videomaterial zu gewähren.
 
+11.D.1. Welche Daten erheben wir?
 
-8.C.6. Widerspruchs- und Beseitigungsmöglichkeit
+Der Serverraum wird videoüberwacht. Dabei werden Bildaufnahmen der Personen erfasst, die den Serverraum betreten oder sich dort aufhalten.
 
-Gemäß der DS-GVO haben Sie ein Widerspruchsrecht. Eine weitere Verarbeitung der personenbezogenen Daten erfolgt nicht mehr, es sei denn, für die Verarbeitung liegen zwingende schutzwürdige Gründe für die Verarbeitung vor, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. (vgl. Art. 21 (1) DS-GVO )
 
+11.D.2. Auf welcher Rechtsgrundlage geschieht dies?
 
-8.C.7. Recht auf Auskunft
+Die Videoüberwachung erfolgt auf Grundlage des berechtigten Interesses des Vereins am Schutz der vereinseigenen Netzwerkinfrastruktur vor unbefugtem Zutritt, Diebstahl, Vandalismus, Manipulation und Beschädigung gemäß Art. 6 Abs. 1 lit. f DSGVO.
+Das berechtigte Interesse ergibt sich insbesondere daraus, dass die im Serverraum befindliche Infrastruktur für den Betrieb des Vereinsnetzwerks und weiterer technischer Dienste des Vereins erforderlich ist.
 
-Gemäß der DS-GVO haben Sie ein Recht auf Auskunft seitens des Verantwortlichen über die betreffenden personenbezogenen Daten (Art. 13, Abs. 2, lit. b der DS-GVO). Der Vorstand ist diesbezüglich berechtigt und verantwortlich diese Auskunft zu gewährleisten.
 
+11.D.3. Welchen Zweck erfüllt die Datenerhebung?
 
-8.C.8. Vertragliche Bereitstellung der Daten
+Die Kameraüberwachung dient der Abschreckung sowie der Aufklärung von unbefugtem Zutritt, Diebstahl, Vandalismus, Manipulation oder sonstigen sicherheitsrelevanten Vorfällen im Serverraum.
+Im Anlassfall können die Aufnahmen zur Nachverfolgung des Vorfalls, zum Schutz der Netzwerkinfrastruktur sowie zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen verwendet werden.
 
-Durch Betreten der Bereiche der Fahrradstellplätze erklären Sie sich bereit diese auf Sie personenbezogenen Daten uns bereitzustellen. Auf diese Erklärung wird ausdrücklich anhand von Beschilderung hingewiesen.
-Auf erklärte Nichtbereitstellung dieser Daten erfolgt ein Verbot der Nutzung der Stellplätze.
 
+11.D.4. Dauer der Datenspeicherung
+
+Die Aufnahmen werden für sieben Tage gespeichert und anschließend gelöscht.
+Eine längere Speicherung erfolgt nur, soweit dies im Einzelfall zur Aufklärung eines konkreten Vorfalls, zur Beweissicherung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist.
+
+
+11.D.5. Wer hat Zugang zu den Daten?
+
+Technischen Zugriff auf die Aufnahmen hat ausschließlich die Netz-AG des WEH e.V.
+Eine Auswertung erfolgt ausschließlich anlassbezogen und unter Beachtung der datenschutzrechtlichen Vorgaben. Zuständig für die Prüfung der Aufnahmen ist die Netz-AG. Bei berechtigtem Interesse kann der Vorstand, insbesondere bei Einbruch, unbefugtem Zutritt, Diebstahl, Vandalismus, Manipulation oder sonstigen sicherheitsrelevanten Vorfällen, in die weitere Klärung einbezogen werden.
+Jede Auswertung und Weitergabe von Aufnahmen wird dokumentiert.
+
+
+11.D.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Eine weitere Verarbeitung erfolgt nicht, sofern keine zwingenden schutzwürdigen Gründe für die Verarbeitung vorliegen, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.
+Soweit die Videoüberwachung dem Schutz der Netzwerkinfrastruktur und der Aufklärung konkreter Vorfälle dient, kann ein Widerspruch dazu führen, dass der Zutritt zum Serverraum eingeschränkt oder nicht möglich ist.
+
+
+11.E. Kameraüberwachung des Briefkastenbereichs
+
+
+11.E.1. Welche Daten erheben wir?
+
+Der Bereich der Briefkastenanlage wird mit Fokus auf die Briefkästen und die dortige Ablagefläche videoüberwacht. Dabei werden Bildaufnahmen der Personen erfasst, die den überwachten Bereich betreten oder sich dort aufhalten.
+
+
+11.E.2. Auf welcher Rechtsgrundlage geschieht dies?
+
+Die Videoüberwachung erfolgt auf Grundlage des berechtigten Interesses des Vereins, der Bewohner und der Vereinsmitglieder am Schutz der Briefkästen, der dort abgelegten Postsendungen und Pakete sowie am Schutz vor Diebstahl, Vandalismus und Beschädigung gemäß Art. 6 Abs. 1 lit. f DSGVO.
+Das berechtigte Interesse ergibt sich insbesondere daraus, dass Postsendungen und Pakete regelmäßig im Bereich der Briefkastenanlage abgelegt werden und es in der Vergangenheit bereits zu Beschädigungen und Verunreinigungen von Briefkästen gekommen ist.
+
+
+11.E.3. Welchen Zweck erfüllt die Datenerhebung?
+
+Die Kameraüberwachung dient der Abschreckung sowie der Aufklärung von Diebstahl, Vandalismus oder Beschädigung im Bereich der Briefkastenanlage.
+Im Anlassfall können die Aufnahmen zur Nachverfolgung des Vorfalls, zum Schutz der Postsendungen, Pakete und Briefkästen sowie zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen verwendet werden.
+
+
+11.E.4. Dauer der Datenspeicherung
+
+Die Aufnahmen werden für sieben Tage gespeichert und anschließend gelöscht.
+Eine längere Speicherung erfolgt nur, soweit dies im Einzelfall zur Aufklärung eines konkreten Vorfalls, zur Beweissicherung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist.
+
+
+11.E.5. Wer hat Zugang zu den Daten?
+
+Technischen Zugriff auf die Aufnahmen hat ausschließlich die Netz-AG des WEH e.V.
+Eine Auswertung erfolgt ausschließlich anlassbezogen und unter Beachtung der datenschutzrechtlichen Vorgaben. Bei berechtigtem Interesse ist die Netz-AG auf begründeten Wunsch des Vorstands angehalten, die Aufnahmen zu prüfen und relevante Aufnahmen zur weiteren Klärung an den Vorstand weiterzugeben.
+Jede Auswertung und Weitergabe von Aufnahmen wird dokumentiert.
+
+
+11.E.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Eine weitere Verarbeitung erfolgt nicht, sofern keine zwingenden schutzwürdigen Gründe für die Verarbeitung vorliegen, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.
+Soweit die Videoüberwachung dem Schutz der Briefkästen, Postsendungen und Pakete sowie der Aufklärung konkreter Vorfälle dient, kann ein Widerspruch dazu führen, dass die Nutzung des überwachten Bereichs eingeschränkt oder nicht möglich ist.
 
 9. Repräsentation des Vereinslebens
 
