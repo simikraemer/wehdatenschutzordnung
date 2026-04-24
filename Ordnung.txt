@@ -665,3 +665,43 @@ Eine Veröffentlichung oder Weitergabe erfolgt nur im Umfang der erteilten Einwi
 
 Die Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden. Nach Widerruf der Einwilligung werden die betreffenden Foto- und Videoaufnahmen gelöscht, soweit keine anderweitige Rechtsgrundlage für eine weitere Speicherung besteht.
 Eine bereits erfolgte rechtmäßige Verarbeitung bis zum Zeitpunkt des Widerrufs bleibt hiervon unberührt.
+
+
+13. Nutzung des Abstimmungssystems des Belegungsausschusses
+
+
+13.1. Welche Daten erheben wir?
+
+Zur Neubelegung von Zimmern kann der Belegungsausschuss für die betroffene Etage eine Abstimmung erstellen. Dabei werden die Benutzerkennung der erstellenden Person, der Zeitpunkt der Erstellung, das Ende der Abstimmung, die Anzahl der Kandidaten, das betroffene Zimmer, der betroffene Turm sowie der Speicherpfad des zugehörigen Bewerbungsdokuments gespeichert.
+Der Abstimmung wird ein PDF-Dokument mit Informationen zu den Bewerbern beigefügt.
+Bei der Stimmabgabe werden die Benutzerkennung der abstimmenden Person, der Zeitpunkt der Stimmabgabe, die zugehörige Abstimmung sowie die abgegebene Stimme gespeichert.
+
+
+13.2. Auf welcher Rechtsgrundlage geschieht dies?
+
+Die Verarbeitung der Daten erfolgt zur Durchführung des vereinsinternen Belegungsverfahrens und damit auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, soweit sie für die Bearbeitung der Bewerbung und die Organisation der Zimmernachbelegung erforderlich ist.
+Darüber hinaus erfolgt die Verarbeitung auf Grundlage des berechtigten Interesses des Vereins an einem geordneten, nachvollziehbaren und möglichst unbeeinflussten Belegungsverfahren gemäß Art. 6 Abs. 1 lit. f DSGVO.
+
+
+13.3. Welchen Zweck erfüllt die Datenerhebung?
+
+Die Datenerhebung dient der Durchführung einer Abstimmung über die Nachbelegung eines freiwerdenden Zimmers.
+Das Abstimmungssystem soll den Bewohnern der betroffenen Etage ermöglichen, ihre Präferenz hinsichtlich der Bewerber abzugeben, ohne dass einzelne Stimmabgaben gegenüber dem Belegungsausschuss oder anderen Bewohnern offengelegt werden.
+
+
+13.4. Dauer der Datenspeicherung
+
+Die Abstimmungsdaten sowie die zugehörigen Bewerbungsunterlagen werden bis zwei Wochen nach Ende der Abstimmung gespeichert und anschließend gelöscht oder anonymisiert.
+Eine längere Speicherung erfolgt nur, soweit dies im Einzelfall zur Klärung konkreter Rückfragen, technischer Probleme oder Streitfälle im Zusammenhang mit der Abstimmung erforderlich ist.
+
+
+13.5. Wer hat Zugang zu den Daten?
+
+Der Belegungsausschuss und die Bewohner der betroffenen Etage können das Endergebnis der Abstimmung einsehen.
+Einzelne Stimmabgaben sind für den Belegungsausschuss und die Bewohner nicht einsehbar.
+Technischen Zugriff auf die vollständigen Abstimmungsdaten hat aus administrativen Gründen ausschließlich die Netz-AG des WEH e.V. Eine Auswertung einzelner Stimmabgaben erfolgt nur, soweit dies im Einzelfall zur Fehleranalyse, Missbrauchsprüfung oder Klärung konkreter Probleme erforderlich ist und unter Beachtung der datenschutzrechtlichen Vorgaben.
+
+13.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Durchführung, Nachvollziehbarkeit oder technische Absicherung der Abstimmung erforderlich ist, kann ein Widerspruch dazu führen, dass eine Teilnahme an der Abstimmung eingeschränkt oder nicht möglich ist.
+Betroffene Personen können im Rahmen der gesetzlichen Vorgaben Auskunft, Berichtigung oder Löschung der sie betreffenden Daten verlangen.
