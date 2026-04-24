@@ -364,26 +364,29 @@ Zugriff auf die Lautstärke-Messwerte haben, soweit dies für Betrieb, Kontrolle
 Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, Organisation oder Nachvollziehbarkeit des Raumbuchungssystems erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des Raumbuchungssystems eingeschränkt oder nicht möglich ist.
 
 
-9. Nutzung des Mailservers
+9. Nutzung des Mailservers und der Rundmail-Funktion
 
 
 9.1. Welche Daten erheben wir?
 
 Jedes Vereinsmitglied hat die Möglichkeit, eine vereinsinterne E-Mail-Adresse zu nutzen und E-Mails über den vereinsinternen Mailserver zu versenden und zu empfangen.
-Im Rahmen der Nutzung des Mailservers werden die E-Mail-Adresse, die Benutzerkennung sowie die im Postfach gespeicherten E-Mails verarbeitet. Hierzu gehören insbesondere die Inhalte der E-Mails sowie die zugehörigen E-Mail-Metadaten, wie Absender, Empfänger, Zeitpunkt, Betreff und technische Zustellinformationen.
+Im Rahmen der Nutzung des Mailservers werden die E-Mail-Adresse, die Benutzerkennung sowie die im Postfach gespeicherten E-Mails verarbeitet. Hierzu gehören insbesondere Inhalte, Absender, Empfänger, Zeitpunkt, Betreff und technische Zustellinformationen.
+Bei Nutzung der Rundmail-Funktion im Vereinsverwaltungssystem werden die Benutzer-ID der absendenden Person, die Versandkategorie, der Zeitpunkt des Versands, der Betreff sowie der Inhalt der Rundmail gespeichert.
+Mitglieder können einstellen, ob sie nur Essential-Rundmails, Essential- und Important-Rundmails oder alle Rundmails erhalten möchten. Diese Einstellung wird dem jeweiligen Mitglied zugeordnet gespeichert.
 
 
 9.2. Auf welcher Rechtsgrundlage geschieht dies?
 
-Die Verarbeitung dieser Daten ist für die Bereitstellung und Nutzung des vereinsinternen Maildienstes erforderlich und erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO.
-Soweit Daten zur Sicherstellung des technischen Betriebs, zur Fehleranalyse oder zur Abwehr von Missbrauch verarbeitet werden, erfolgt dies ergänzend auf Grundlage des berechtigten Interesses des Vereins an einem sicheren und funktionsfähigen Mailserver gemäß Art. 6 Abs. 1 lit. f DSGVO.
+Die Verarbeitung dieser Daten ist für die Bereitstellung und Nutzung des vereinsinternen Maildienstes sowie der vereinsinternen Kommunikationsfunktionen erforderlich und erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO.
+Soweit Daten zur Sicherstellung des technischen Betriebs, zur Fehleranalyse, zur Abwehr von Missbrauch oder zur geordneten vereinsinternen Kommunikation verarbeitet werden, erfolgt dies ergänzend auf Grundlage des berechtigten Interesses des Vereins gemäß Art. 6 Abs. 1 lit. f DSGVO.
+Die Veröffentlichung einzelner Essential- oder Important-Rundmails auf der öffentlichen Vereinswebseite erfolgt nur bei vereinsrelevanten Inhalten und auf Grundlage des berechtigten Interesses des Vereins an der Dokumentation und Veröffentlichung wichtiger Vereinsinformationen gemäß Art. 6 Abs. 1 lit. f DSGVO.
 
 
 9.3. Welchen Zweck erfüllt die Datenerhebung?
 
-Die Datenerhebung dient der Bereitstellung des vereinsinternen Maildienstes und ermöglicht den Mitgliedern, E-Mails über den Mailserver des Vereins zu senden, zu empfangen und in ihrem Postfach zu speichern.
-Die Speicherung der E-Mails dient außerdem dazu, dass Nutzer ihre E-Mails auch zu einem späteren Zeitpunkt erneut abrufen können.
-Darüber hinaus dient die Verarbeitung technischer Daten dem sicheren Betrieb des Mailservers, der Fehleranalyse sowie der Erkennung und Verhinderung von Missbrauch.
+Die Datenerhebung dient der Bereitstellung des vereinsinternen Maildienstes und ermöglicht den Mitgliedern, E-Mails zu senden, zu empfangen und in ihrem Postfach zu speichern.
+Die Rundmail-Funktion dient der vereinsinternen Kommunikation und ermöglicht die Verteilung von Informationen nach Relevanz in den Kategorien Essential, Important und Community.
+Die Verarbeitung technischer Daten dient dem sicheren Betrieb, der Fehleranalyse sowie der Erkennung und Verhinderung von Missbrauch.
 
 
 9.4. Dauer der Datenspeicherung
@@ -391,18 +394,24 @@ Darüber hinaus dient die Verarbeitung technischer Daten dem sicheren Betrieb de
 Die im Postfach gespeicherten E-Mails bleiben grundsätzlich so lange gespeichert, wie das jeweilige Mitglied dies wünscht oder sie nicht selbst löscht.
 Nach dem Vereinsaustritt wird die vereinsinterne E-Mail-Adresse grundsätzlich nach zwei Monaten deaktiviert und das zugehörige Postfach einschließlich der darin gespeicherten Daten gelöscht.
 Auf ausdrücklichen Wunsch des ausgeschiedenen Mitglieds kann die E-Mail-Adresse auch nach dem Vereinsaustritt weitergeführt werden. In diesem Fall werden die für den Betrieb der E-Mail-Adresse und des Postfachs erforderlichen Daten weiterhin gespeichert.
+Rundmails werden den jeweiligen Empfängern als E-Mail zugestellt und zusätzlich für einen Monat im Vereinsverwaltungssystem gespeichert.
+Die Einstellung zum Empfang von Rundmails wird bis zum Vereinsaustritt personenbezogen gespeichert. Mit dem Vereinsaustritt wird der Personenbezug entfernt, sodass die verbleibenden Daten nicht mehr dem ausgeschiedenen Mitglied zugeordnet werden können.
+Auf der öffentlichen Vereinswebseite veröffentlichte Essential- oder Important-Rundmails werden dort dauerhaft mit Betreff und Inhalt gespeichert, soweit sie für den Verein relevant sind.
 
 
 9.5. Wer hat Zugang zu den Daten?
 
 Zugriff auf das jeweilige Postfach hat grundsätzlich nur das Mitglied selbst.
-Administrativer Zugriff durch die Netz-AG des WEH e.V. erfolgt nur, soweit dies für den technischen Betrieb, die Fehlerbehebung, die Sicherheit des Mailservers oder die Bearbeitung konkreter Supportfälle erforderlich ist. Eine inhaltliche Einsichtnahme in E-Mails erfolgt nur, soweit dies im Einzelfall technisch oder organisatorisch zwingend erforderlich ist und unter Beachtung der datenschutzrechtlichen Vorgaben.
+Administrativer Zugriff durch die Netz-AG des WEH e.V. erfolgt nur, soweit dies für den technischen Betrieb, die Fehlerbehebung, die Sicherheit des Mailservers oder die Bearbeitung konkreter Supportfälle erforderlich ist.
+Rundmails sind für die jeweiligen Empfänger im eigenen Postfach sowie für einen Monat im Vereinsverwaltungssystem einsehbar.
+Sofern Rundmails auf der öffentlichen Vereinswebseite veröffentlicht werden, sind sie dort allgemein zugänglich.
 
 
 9.6. Widerspruchs- und Beseitigungsmöglichkeit
 
-Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, den Betrieb oder die Sicherheit des Mailservers erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des vereinsinternen Maildienstes eingeschränkt oder nicht möglich ist.
-Mitglieder können ihre im Postfach gespeicherten E-Mails grundsätzlich selbst löschen. Nach Beendigung der Nutzung des Maildienstes oder nach Ablauf der oben genannten Fristen wird das zugehörige Postfach gelöscht, sofern keine weitere Speicherung ausdrücklich gewünscht oder rechtlich erforderlich ist.
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen.
+Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, den Betrieb oder die Sicherheit des Mailservers sowie für erforderliche Vereinskommunikation notwendig ist, kann ein Widerspruch dazu führen, dass die Nutzung des Maildienstes oder einzelner Kommunikationsfunktionen eingeschränkt oder nicht möglich ist.
+Mitglieder können ihre im Postfach gespeicherten E-Mails grundsätzlich selbst löschen und ihre Rundmail-Einstellungen im Rahmen der angebotenen Auswahlmöglichkeiten selbst ändern.
 
 
 10. Engagement in einem AG-Posten
