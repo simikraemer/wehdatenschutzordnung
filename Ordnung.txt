@@ -205,26 +205,33 @@ Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlag
 
 5.1. Welche Daten erheben wir?
 
+Zur Nutzung des Vereinsnetzwerks wird die MAC-Adresse des verwendeten Geräts im Voraus registriert und dem jeweiligen Mitglied zugeordnet. Dabei können außerdem die Benutzer-ID, der Zeitpunkt der Registrierung, die zugewiesene oder zuletzt verwendete IP-Adresse, der Hostname des Geräts sowie die Information gespeichert werden, ob die Registrierung im Zusammenhang mit einem Untermietverhältnis erfolgt.
+Während der Internetnutzung gleicht der DHCP-Server die registrierte MAC-Adresse ab und weist dem Gerät eine IP-Adresse zu.
+Darüber hinaus wird gespeichert, welchem Mitglied zu welchem Zeitpunkt welche IP-Adresse zugewiesen war.
 Bei der Nutzung des WLANs bzw. beim Login an einem Access Point über RADIUS werden der Zeitpunkt des Logins, der Access Point, an dem die Anmeldung erfolgte, der Benutzername, die IP-Adresse sowie die MAC-Adresse des verwendeten Geräts gespeichert.
-Während der Internetnutzung wird die MAC-Adresse des verwendeten Geräts an einen DHCP-Server übermittelt, um dem Gerät eine IP-Adresse zuzuweisen.
 Bei Nutzung des vereinseigenen DNS-Servers werden DNS-Anfragen protokolliert; erfasst werden dabei die aufgelösten Domainnamen, die zugehörigen Quell-IP-Adressen sowie der Zeitpunkt der Anfrage.
 
 
 5.2. Auf welcher Rechtsgrundlage geschieht dies?
 
-Die im Rahmen der Nutzung des Vereinsnetzwerks erhobenen Daten sind teilweise technisch für die Bereitstellung des Internetzugangs erforderlich und werden insoweit auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO verarbeitet. Darüber hinaus erfolgt die Verarbeitung auf Grundlage des berechtigten Interesses des Vereins an einem sicheren und funktionsfähigen Netzwerk gemäß Art. 6 Abs. 1 lit. f DSGVO.
+Die im Rahmen der Nutzung des Vereinsnetzwerks erhobenen Daten sind teilweise technisch für die Bereitstellung des Internetzugangs erforderlich und werden insoweit auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO verarbeitet.
+Dies betrifft insbesondere die Registrierung und Zuordnung von MAC-Adressen, den Abgleich durch den DHCP-Server, die Zuweisung von IP-Adressen sowie die Authentifizierung im WLAN.
+Darüber hinaus erfolgt die Verarbeitung auf Grundlage des berechtigten Interesses des Vereins an einem sicheren und funktionsfähigen Netzwerk gemäß Art. 6 Abs. 1 lit. f DSGVO.
 Die Speicherung der DNS-Protokolldaten erfolgt ergänzend auf Grundlage des berechtigten Interesses gemäß Art. 6 Abs. 1 lit. f DSGVO sowie, soweit erforderlich, zur Erfüllung rechtlicher Verpflichtungen im Rahmen behördlicher Ermittlungen gemäß Art. 6 Abs. 1 lit. c DSGVO.
 
 
 5.3. Welchen Zweck erfüllt die Datenerhebung?
 
-Die Datenerhebung ist technisch für die Bereitstellung des Internetzugangs erforderlich, insbesondere zur Zuweisung von IP-Adressen durch den DHCP-Server und zur Authentifizierung im WLAN.
-Darüber hinaus dient sie der Sicherheit des Vereinsnetzwerks sowie der Erkennung und Nachverfolgung sicherheitsrelevanter Vorfälle.
+Die Datenerhebung ist technisch für die Bereitstellung des Internetzugangs erforderlich, insbesondere zur Registrierung zugelassener Geräte, zur Zuweisung von IP-Adressen durch den DHCP-Server und zur Authentifizierung im WLAN.
+Die Speicherung der IP-Zuordnung dient der Nachvollziehbarkeit, welchem Mitglied zu welchem Zeitpunkt eine bestimmte IP-Adresse zugewiesen war.
+Darüber hinaus dient die Datenerhebung der Sicherheit des Vereinsnetzwerks sowie der Erkennung und Nachverfolgung sicherheitsrelevanter Vorfälle.
 Der Zeitpunkt der letzten WLAN-Authentifizierung wird erfasst, um die letzte Netzwerkaktivität von Mitgliedern zu überprüfen und zu verhindern, dass noch aktive Nutzer durch fehlerhaft ausgefüllte Neuanmeldungen irrtümlich ihren Internetzugang verlieren.
 
 
 5.4. Dauer der Datenspeicherung
 
+Die registrierten MAC-Adressen, die zugehörigen Gerätedaten sowie die gespeicherten IP-Zuordnungen werden bis zum Vereinsaustritt personenbezogen gespeichert.
+Mit dem Vereinsaustritt wird der Personenbezug entfernt, sodass die verbleibenden Daten nicht mehr dem ausgeschiedenen Mitglied zugeordnet werden können.
 Die Informationen aus den Anmeldungen an den WLAN Access Points werden für eine Woche gespeichert.
 Der Zeitpunkt der letzten Authentifizierung über eine WLAN-Access-Point-Anmeldung wird bis zum Vereinsaustritt gespeichert.
 Die DNS-Protokolldaten werden bis zu zwei Wochen lang gespeichert.
@@ -232,11 +239,16 @@ Die DNS-Protokolldaten werden bis zu zwei Wochen lang gespeichert.
 
 5.5. Wer hat Zugang zu den Daten?
 
-Zugriff auf diese Daten hat ausschließlich die Netz-AG des WEH e.V.; Mitglieder können darüber hinaus ihre eigenen DHCP- und RADIUS-Logs zur eigenständigen Fehleranalyse einsehen. Eine Auswertung erfolgt ausschließlich anlassbezogen und unter Beachtung der datenschutzrechtlichen Vorgaben.
+Zugriff auf die im Zusammenhang mit dem Vereinsnetzwerk gespeicherten Daten hat ausschließlich die Netz-AG des WEH e.V.
+Mitglieder können ihre eigenen registrierten Geräte sowie ihre eigenen DHCP- und RADIUS-Logs zur eigenständigen Fehleranalyse einsehen.
+Eine Auswertung erfolgt ausschließlich anlassbezogen und unter Beachtung der datenschutzrechtlichen Vorgaben.
+
 
 5.6. Widerspruchs- und Beseitigungsmöglichkeit
 
-Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, Sicherheit oder Funktionsfähigkeit des Vereinsnetzwerks technisch erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des Vereinsnetzwerks eingeschränkt oder nicht möglich ist.
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen.
+Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, Sicherheit oder Funktionsfähigkeit des Vereinsnetzwerks technisch erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des Vereinsnetzwerks eingeschränkt oder nicht möglich ist.
+Betroffene Personen können im Rahmen der gesetzlichen Vorgaben Auskunft, Berichtigung oder Löschung der sie betreffenden Daten verlangen.
 
 
 6. Nutzung des Hausdruckers
@@ -961,3 +973,5 @@ Technischen und administrativen Zugriff hat, soweit dies für Betrieb, Wartung o
 Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen.
 Soweit die Verarbeitung bestimmter Daten für die Umsetzung, Nachvollziehbarkeit oder Durchsetzung einer Vereinssperre erforderlich ist, kann eine Löschung oder Einschränkung der Verarbeitung erst erfolgen, wenn keine entgegenstehenden vereinsbezogenen oder rechtlichen Gründe mehr bestehen.
 Betroffene Personen können im Rahmen der gesetzlichen Vorgaben Auskunft, Berichtigung oder Löschung der sie betreffenden Daten verlangen.
+
+
