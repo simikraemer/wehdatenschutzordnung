@@ -352,27 +352,83 @@ Zugriff auf die Lautstärke-Messwerte haben, soweit dies für Betrieb, Kontrolle
 Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, Organisation oder Nachvollziehbarkeit des Raumbuchungssystems erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des Raumbuchungssystems eingeschränkt oder nicht möglich ist.
 
 
-7. Nutzung sonstiger Dienste
+9. Nutzung des Mailservers
 
 
-7.1. Der Vereinsdrucker
+9.1. Welche Daten erheben wir?
 
-Bei der Benutzung des Vereinsdruckers wird bei dem Erstellen des Druckauftrages die Zimmernummer, das Druckdatum und -uhrzeit, Anzahl der Seiten und Dateiname gespeichert. Rechtsgrundlage hierfür stellt die Art. 6 Abs. 1b DS-GVO dar. Die Anzahl der gedruckten Seiten wird bis zur Abrechnung gespeichert. Der Dateiname wird bis zur Abrechnung (im folgenden Semester) aufbewahrt und anschließend gelöscht. Zugriff auf die Daten hat die Netz-AG. Sie können der Datenverarbeitung widersprechen, was allerdings zur Folge hätte, dass Sie den Drucker nicht mehr benutzen könnten.
-
-
-7.2. Die Benutzung des Mail Servers
-
-Jedes Vereinsmitglied hat die Möglichkeit E-Mails über den vereinsinternen E-Mail-Server zu verschicken. Diese werden dort solange gespeichert, wie das Mitglied dies erwünscht (Rechtsgrundlage: Art. 6 Abs. 1b DS-GVO). Die Speicherung dient dazu, dass die Nutzer die Möglichkeit haben die Mails auch in der Zukunft aufrufen zu können. Spätestens zwei Monate nach Vereinsaustritt werden die E-Mails allerdings gelöscht.
+Jedes Vereinsmitglied hat die Möglichkeit, eine vereinsinterne E-Mail-Adresse zu nutzen und E-Mails über den vereinsinternen Mailserver zu versenden und zu empfangen.
+Im Rahmen der Nutzung des Mailservers werden die E-Mail-Adresse, die Benutzerkennung sowie die im Postfach gespeicherten E-Mails verarbeitet. Hierzu gehören insbesondere die Inhalte der E-Mails sowie die zugehörigen E-Mail-Metadaten, wie Absender, Empfänger, Zeitpunkt, Betreff und technische Zustellinformationen.
 
 
-7.3. Das Wohnzimmer
+9.2. Auf welcher Rechtsgrundlage geschieht dies?
 
-Zur Vermeidung nächtlicher Ruhestörung der direkten Anwohner der 0. Etage wird im Wohnzimmer ein Gerät installiert, das den Schallpegel kontinuierlich misst. Es findet keine Spracherkennung oder Speicherung von Audioaufnahmen statt.
+Die Verarbeitung dieser Daten ist für die Bereitstellung und Nutzung des vereinsinternen Maildienstes erforderlich und erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO.
+Soweit Daten zur Sicherstellung des technischen Betriebs, zur Fehleranalyse oder zur Abwehr von Missbrauch verarbeitet werden, erfolgt dies ergänzend auf Grundlage des berechtigten Interesses des Vereins an einem sicheren und funktionsfähigen Mailserver gemäß Art. 6 Abs. 1 lit. f DSGVO.
 
 
-7.4. Engagement in einem AG-Posten
+9.3. Welchen Zweck erfüllt die Datenerhebung?
 
-Bei dem Beitritt einer AG im WEH werden Name und Zimmernummer der betreffenden Person auf der AG-Liste ergänzt, die im Aufzug und auf der vereinsinternen Webseite einzusehen ist. Dies ist notwendig, um eine Kommunikation zwischen den Bewohnern und den AG-Mitgliedern zu realisieren. Damit besteht die Rechtsgrundlage zu dieser Datenerhebung und der internen Veröffentlichung in Art. 6 Abs. 1b DS-GVO, da dieser Schritt mit dem AG-Beitritt verbunden ist. Bei Austritt aus der AG wird der Name von der Liste entfernt. Es besteht die Möglichkeit dieser Datenveröffentlichung zu widersprechen, was allerdings dem Ausschluss aus der AG zu Folge hat.
+Die Datenerhebung dient der Bereitstellung des vereinsinternen Maildienstes und ermöglicht den Mitgliedern, E-Mails über den Mailserver des Vereins zu senden, zu empfangen und in ihrem Postfach zu speichern.
+Die Speicherung der E-Mails dient außerdem dazu, dass Nutzer ihre E-Mails auch zu einem späteren Zeitpunkt erneut abrufen können.
+Darüber hinaus dient die Verarbeitung technischer Daten dem sicheren Betrieb des Mailservers, der Fehleranalyse sowie der Erkennung und Verhinderung von Missbrauch.
+
+
+9.4. Dauer der Datenspeicherung
+
+Die im Postfach gespeicherten E-Mails bleiben grundsätzlich so lange gespeichert, wie das jeweilige Mitglied dies wünscht oder sie nicht selbst löscht.
+Nach dem Vereinsaustritt wird die vereinsinterne E-Mail-Adresse grundsätzlich nach zwei Monaten deaktiviert und das zugehörige Postfach einschließlich der darin gespeicherten Daten gelöscht.
+Auf ausdrücklichen Wunsch des ausgeschiedenen Mitglieds kann die E-Mail-Adresse auch nach dem Vereinsaustritt weitergeführt werden. In diesem Fall werden die für den Betrieb der E-Mail-Adresse und des Postfachs erforderlichen Daten weiterhin gespeichert.
+
+
+9.5. Wer hat Zugang zu den Daten?
+
+Zugriff auf das jeweilige Postfach hat grundsätzlich nur das Mitglied selbst.
+Administrativer Zugriff durch die Netz-AG des WEH e.V. erfolgt nur, soweit dies für den technischen Betrieb, die Fehlerbehebung, die Sicherheit des Mailservers oder die Bearbeitung konkreter Supportfälle erforderlich ist. Eine inhaltliche Einsichtnahme in E-Mails erfolgt nur, soweit dies im Einzelfall technisch oder organisatorisch zwingend erforderlich ist und unter Beachtung der datenschutzrechtlichen Vorgaben.
+
+
+9.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, den Betrieb oder die Sicherheit des Mailservers erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des vereinsinternen Maildienstes eingeschränkt oder nicht möglich ist.
+Mitglieder können ihre im Postfach gespeicherten E-Mails grundsätzlich selbst löschen. Nach Beendigung der Nutzung des Maildienstes oder nach Ablauf der oben genannten Fristen wird das zugehörige Postfach gelöscht, sofern keine weitere Speicherung ausdrücklich gewünscht oder rechtlich erforderlich ist.
+
+
+10. Engagement in einem AG-Posten
+
+
+10.1. Welche Daten erheben wir?
+
+Bei der Übernahme eines AG-Postens im WEH werden der Name und die Zimmernummer der betreffenden Person in die jeweilige AG-Liste aufgenommen.
+Die AG-Liste ist im Aufzug sowie auf der vereinsinternen Webseite einsehbar.
+
+
+10.2. Auf welcher Rechtsgrundlage geschieht dies?
+
+Die Verarbeitung und vereinsinterne Veröffentlichung dieser Daten ist für die Ausübung des jeweiligen AG-Postens erforderlich und erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO.
+Darüber hinaus besteht ein berechtigtes Interesse des Vereins daran, Ansprechpartner für die jeweiligen AGs innerhalb des Vereins transparent und erreichbar zu machen. Die Verarbeitung erfolgt insoweit ergänzend auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
+
+
+10.3. Welchen Zweck erfüllt die Datenerhebung?
+
+Die Datenerhebung und vereinsinterne Veröffentlichung dienen dazu, eine einfache Kommunikation zwischen den Bewohnern, Vereinsmitgliedern und den jeweiligen AG-Mitgliedern zu ermöglichen.
+Dadurch können Anliegen, Rückfragen oder Probleme direkt an die zuständigen Personen der jeweiligen AG gerichtet werden.
+
+
+10.4. Dauer der Datenspeicherung
+
+Die Daten werden für die Dauer der Tätigkeit in der jeweiligen AG gespeichert und auf der AG-Liste veröffentlicht.
+Nach dem Ausscheiden aus der AG werden Name und Zimmernummer von der AG-Liste entfernt.
+
+
+10.5. Wer hat Zugang zu den Daten?
+
+Die im Aufzug ausgehängte AG-Liste ist für Bewohner und Besucher des Hauses sichtbar.
+Die auf der vereinsinternen Webseite veröffentlichte AG-Liste ist innerhalb des Hausnetzes für Vereinsmitglieder einsehbar.
+
+
+10.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Veröffentlichung von Name und Zimmernummer für die Erreichbarkeit und Ausübung des jeweiligen AG-Postens erforderlich ist, kann ein Widerspruch dazu führen, dass die Tätigkeit in der jeweiligen AG nicht oder nur eingeschränkt ausgeübt werden kann.
 
 
 8. Kameraüberwachung
