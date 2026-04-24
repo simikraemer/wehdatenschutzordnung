@@ -130,15 +130,16 @@ Beim Beitritt des WEH e.V. werden folgende Daten von Ihnen erhoben:
 ·         Vor- und Nachname
 ·         Geburtsdatum und Herkunftsland
 ·         E-Mail-Adresse
-·         Zimmernummer
-·         das Datum des Vereinseintrittes
+·         Zimmernummer und Wohnheim
+·         Einzugs- und Vereinsbeitrittsdatum
+·         Frei wählbarer Benutzername
 ·         Hochgeladene Dokumente (Ausweis, Mietvertrag, Anmeldeformular)
 
-Die Angabe der Handynummer ist optional und dient lediglich dazu unsere Mitglieder einfacher erreichen zu können.
+Die Angabe einer Handynummer ist optional und dient lediglich der vereinsinternen Kommunikation durch optimale Erreichbarkeit unserer Mitglieder.
 
-Weiterhin werden gespeichert, sobald wir die Information erhalten, das Vereinsaustritts- sowie das Auszugsdatum und bei Bestehen eines Untermietvertrages der Beginn und das Ende dieses.
+Sobald uns die entsprechenden Informationen vorliegen, speichern wir außerdem das Datum des Vereinsaustritts, das Auszugsdatum sowie – bei Bestehen eines Untermietvertrages – dessen Beginn und Ende.
 
-Dem Bewohner wird eine Mail-Adresse erstellt, die aus technischen Gründen an die RWTH-Aachen ohne Angaben über den Besitzer der Adresse weitergegeben wird.
+Dem Bewohner wird auf Wunsch eine Mail-Adresse erstellt, die aus technischen Gründen an die RWTH-Aachen ohne Angaben über den Besitzer der Adresse weitergegeben wird.
 
 
 3.2. Auf welcher Rechtsgrundlage geschieht dies?
@@ -153,17 +154,17 @@ Der Zweck für diese Datenspeicherung liegt in dem Interesse, die Vereinsmitglie
 
 3.4. Dauer der Datenspeicherung
 
-Die Daten werden bei dem Vereinsaustritt aus der Verwaltungssoftware gelöscht. Die Anmeldeformulare werden allerdings gemäß der gesetzlichen Aufbewahrungsfrist sechs Jahre lang aufbewahrt und anschließend vernichtet.
+Die Daten werden nach dem Vereinsaustritt gemäß den gesetzlichen Aufbewahrungsfristen für sechs Jahre gespeichert und anschließend anonymisiert. Alle digitalen Dokumente der betroffenen Person werden gelöscht, sämtliche physischen Unterlagen datenschutzgerecht vernichtet.
 
 
 3.5. Wer Hat Zugang zu den Daten?
 
-Zugang zu diesen Daten haben der Vorstand sowie die Netz-AG. Letztere verwaltet die Registrierung der Mitglieder.
+Zugang zu diesen Daten haben der Vorstand, die Haussprecher und die Netzwerk-AG.
 
 
 3.6. Widerspruchs- und Beseitigungsmöglichkeit
 
-Sie haben gemäß der DS-GVO das Recht Ihre Einwilligung bezüglich dieser Datenerhebung jederzeit zurückzuziehen. Ihre Daten werden dann gelöscht. Dies ist jedoch gleichbedeutend eines Vereinsaustrittes, woraufhin die von uns angebotenen Leistungen nicht mehr genutzt werden können.
+Sie haben gemäß der DS-GVO das Recht Ihre Einwilligung bezüglich dieser Datenerhebung jederzeit zurückzuziehen. Ihre Daten werden dann gelöscht. Dies ist jedoch gleichbedeutend eines Vereinsaustrittes, woraufhin die von dem WEH e.V. angebotenen Leistungen nicht mehr genutzt werden können.
 
 
 4. Die Nutzung des von dem Verein eingerichtetes Internets sowie der Website und den Hausdrucker
