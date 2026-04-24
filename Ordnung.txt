@@ -259,8 +259,7 @@ Die Datenerhebung dient der Zuordnung und Abrechnung von Druckaufträgen zum jew
 
 6.4. Dauer der Datenspeicherung
 
-Die gespeicherten Druckaufträge sind Bestandteil der nutzerbezogenen Abrechnung und des jeweiligen Mitgliederguthabens. Sie werden daher bis zum Vereinsaustritt gespeichert und anschließend gelöscht.
-
+Die gespeicherten Druckaufträge sind Bestandteil der nutzerbezogenen Abrechnung und des jeweiligen Mitgliederguthabens. Sie werden bis zum Vereinsaustritt personenbezogen gespeichert. Nach dem Vereinsaustritt wird der Personenbezug entfernt; die verbleibenden Daten werden nur noch anonymisiert für Abrechnungs-, Statistik- und Nachweiszwecke weitergeführt.
 
 6.5. Wer hat Zugang zu den Daten?
 
@@ -272,42 +271,45 @@ Zugriff auf diese Daten haben, soweit dies für Betrieb, Abrechnung oder Fehlera
 Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, Abrechnung oder Nachvollziehbarkeit der Druckfunktion erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des Hausdruckers eingeschränkt oder nicht möglich ist.
 
 
-
-5. Die Nutzung des von dem Verein angebotenen Waschsystem
-
-
-5.1. Welche Daten erheben wir?
-
-Bei der Buchung eines Waschtermins werden Name, Zimmernummer und die Uhrzeit des Waschtermins gespeichert.
-
-Bei Nutzung des Waschmarkentransfersystems, wobei Waschmarkenkäufe bei den Wasch-AG Mitgliedern auch über dieses Systems laufen, wird das Datum des Transfers, die Anzahl der transferierten Waschmarken sowie der Namen und die Zimmernummer des Empfängers und des Absenders gespeichert.
+7. Nutzung des vom Verein angebotenen Waschsystems
 
 
-5.2. Auf welcher Rechtsgrundlage geschieht dies?
+7.1. Welche Daten erheben wir?
 
-Beide Datenerhebung erfolgen auf Rechtsgrundlage Art. 6 Abs. 1b DS-GVO, da die Verarbeitung der Daten für die auf Anfrage der betroffenen Personen erfolgende Nutzung der Waschmaschine bzw. die Nutzung des Waschsystems erforderlich ist. Näheres kann in der hausinternen Waschordnung nachgelesen werden, welches als Vertragsgrundlage für die Nutzung der Angebote der Wasch-AG gilt.
-
-
-5.3. Welchen Zweck erfüllt die Datenerhebung?
-
-Die Datenerhebung bei der Buchung eines Waschtermins dient vor allem den Zweck eines reibungsfreien Ablaufs zwischen den Benutzern der Waschmaschine/Trockners (siehe Waschordnung). Da die Waschmaschinen zudem Vereinseigentum sind, gilt es als berechtigtes Interesse die Möglichkeit zu haben, die Buchungen nachvollziehen zu können.
-
-Bezüglich des Waschmarkentransfers ist die Speicherung der Daten notwendig für die Buchhaltung und Abrechnung der Vereinseinnahmen. Um das Transfersystem transparent zu halten, kann jedes Vereinsmitglied zudem die Transfers sechs Monate einsehen, an denen die betroffene Person beteiligt war.
+Bei der Buchung eines Waschtermins werden der Name, die Zimmernummer sowie der gebuchte Zeitpunkt des Waschtermins gespeichert.
+Bei der Aktivierung von Waschmaschinen oder Trocknern werden der Zeitpunkt der Aktivierung sowie die zugehörige Benutzer-ID protokolliert.
+Beim Erwerb von Waschmarken werden die Benutzer-ID, der Zeitpunkt des Erwerbs sowie die Anzahl der erworbenen Waschmarken gespeichert.
 
 
-5.4. Dauer der Datenspeicherung
+7.2. Auf welcher Rechtsgrundlage geschieht dies?
 
-Die bei der Buchung eines Waschtermins erhobenen Daten werden zwei Wochen lang gespeichert und anschließend anonymisiert. Die Speicherfrist für die Waschmarkentransfers liegt, da es sich bei diesen um steuerrechtliche Informationen handelt, bei der gesetzlichen Aufbewahrungsfrist von zehn Jahren.
-
-
-5.5. Wer Hat Zugang zu den Daten?
-
-Zugriff zu den Daten besitzt die Netz-AG und die Wasch AG. Bei den Daten des Waschmarkenverkaufs hat zusätzlich noch der Kassenwart und der stellvertretende Kassenwart des WEH e.V. Zugriff, da diese Daten eine wichtige Relevanz für die Abrechnung besitzen. Die Daten (Name, Zimmernummer und die Uhrzeit), welche bei der Buchung des Waschtermins erhoben werden, sind zudem bis drei Stunden nach Beginn des Waschtermins für alle Vereinsmitglieder innerhalb des Hausnetzes frei zugänglich. Bei einem Waschmarkentransfer sind die erhobenen Daten für Empfänger und Sender sechs Monate rückwirkend absehbar.
+Die Verarbeitung dieser Daten ist für die Bereitstellung und Nutzung des Waschsystems erforderlich und erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO. Grundlage für die Nutzung des Waschsystems ist insbesondere die hausinterne Waschordnung.
+Soweit die Daten zur Nachvollziehbarkeit von Buchungen, Aktivierungen oder Störungen verarbeitet werden, erfolgt dies zusätzlich auf Grundlage des berechtigten Interesses des Vereins an einem ordnungsgemäßen und fairen Betrieb des Waschsystems gemäß Art. 6 Abs. 1 lit. f DSGVO.
 
 
-5.6. Widerspruchs- und Beseitigungsmöglichkeit
+7.3. Welchen Zweck erfüllt die Datenerhebung?
 
-Sie können jederzeit dieser Datenerhebung widersprechen. Dies hätte allerdings zur Folge, dass Sie die Dienste der Wasch-AG nicht weiter beanspruchen könnten.
+Die Datenerhebung bei der Buchung und Aktivierung von Waschterminen dient der Organisation eines reibungslosen Ablaufs zwischen den Nutzern der Waschmaschinen und Trockner.
+Darüber hinaus ermöglicht sie die Nachvollziehbarkeit von Buchungen und Aktivierungen, insbesondere bei Störungen, Fehlbuchungen oder sonstigen Problemen im Zusammenhang mit der Nutzung des Waschsystems.
+Die Daten zum Erwerb von Waschmarken dienen der Zuordnung zum jeweiligen Nutzerkonto, der Abrechnung sowie der Verwaltung des jeweiligen Mitgliederguthabens.
+
+
+7.4. Dauer der Datenspeicherung
+
+Die bei der Buchung und Aktivierung eines Waschtermins erhobenen Daten werden ein Jahr lang gespeichert und anschließend anonymisiert.
+Daten zu Waschmarkentransfers sind Bestandteil der nutzerbezogenen Abrechnung und des jeweiligen Mitgliederguthabens. Sie werden bis zum Vereinsaustritt personenbezogen gespeichert. Nach dem Vereinsaustritt wird der Personenbezug entfernt; die verbleibenden Daten werden nur noch anonymisiert für Abrechnungs-, Statistik- und Nachweiszwecke weitergeführt.
+
+
+7.5. Wer hat Zugang zu den Daten?
+
+Zugriff auf die Daten haben, soweit dies für Betrieb, Organisation oder Fehleranalyse erforderlich ist, die Netz-AG und die Wasch-AG des WEH e.V.
+Auf die Daten zum Erwerb von Waschmarken haben zusätzlich die Kassenwarte des WEH e.V. Zugriff, soweit dies für Abrechnung und Buchhaltung erforderlich ist.
+Die bei der Buchung eines Waschtermins erhobenen Daten, insbesondere Name, Zimmernummer und Zeitpunkt des Waschtermins, sind bis drei Stunden nach Beginn des gebuchten Waschtermins für Vereinsmitglieder innerhalb des Hausnetzes einsehbar.
+
+
+7.6. Widerspruchs- und Beseitigungsmöglichkeit
+
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, Organisation oder Abrechnung des Waschsystems erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des Waschsystems eingeschränkt oder nicht möglich ist.
 
 
 6. Raumbuchung des Wohnzimmers des Tischtennisraumes und der Sport Geräte
