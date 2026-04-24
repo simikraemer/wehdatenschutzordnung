@@ -312,52 +312,44 @@ Die bei der Buchung eines Waschtermins erhobenen Daten, insbesondere Name, Zimme
 Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, Organisation oder Abrechnung des Waschsystems erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des Waschsystems eingeschränkt oder nicht möglich ist.
 
 
-6. Raumbuchung des Wohnzimmers des Tischtennisraumes und der Sport Geräte
+8. Nutzung des Raumbuchungssystems
 
 
-6.1. Welche Daten erheben wir?
+8.1. Welche Daten erheben wir?
 
-Bei der Buchung werden Buchungszeitraum, Benutzername, Buchungstitel und
-Buchungsbeschreibung erhoben.
-Im WEH Wohnzimmer findet eine kontinuierliche Lautstärkemessung statt.
-
-
-6.2. Auf welcher Rechtsgrundlage geschieht dies?
-
-Beide Datenerhebungen erfolgen auf Rechtsgrundlage Art. 6 Abs. 1b DS-GVO, da die
-Verarbeitung für die Nutzung des Buchungssystems, die auf Anfrage der betroffenen Person
-erfolgt, essentiell ist.
-Die Lautstärkemessung im Wohnzimmer erfolgt auf Grundlage des Art. 6 Abs. 1 lit. f DS-GVO,
-mit dem berechtigten Interesse der Lärmreduzierung für Bewohner der 0. Etage.
+Bei der Buchung eines Raums werden der Buchungszeitraum, der Benutzername, der Buchungstitel sowie die Buchungsbeschreibung gespeichert.
+Im Wohnzimmer des WEH auf der 0. Etage findet außerdem eine kontinuierliche Lautstärkemessung statt. Dabei werden Lautstärke-Messwerte erhoben.
 
 
-6.3. Welchen Zweck erfüllt die Datenerhebung?
+8.2. Auf welcher Rechtsgrundlage geschieht dies?
 
-Die Datenerhebung bei der Buchung eines Raumes dient dazu, einen reibungsfreien Ablauf der
-Buchung herzustellen. Da die genannten Räume private Räume des WEH sind und die
-Ausstattung Eigentum des WEH ist, besteht ein berechtigtes Interesse, Buchungen
-nachvollziehen zu können.
-Die Lautstärkemessung im Wohnzimmer dient dem Schutz der Nachtruhe der Bewohner der 0.
-Etage, auf Grundlage des Beschlusses der Vollversammlung vom 02.07.2025.
+Die Verarbeitung der Buchungsdaten ist für die Bereitstellung und Nutzung des Raumbuchungssystems erforderlich und erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO.
+Darüber hinaus besteht ein berechtigtes Interesse des Vereins daran, Buchungen nachvollziehen zu können, da es sich um private Räume des WEH handelt und die Ausstattung im Eigentum des WEH steht. Die Verarbeitung erfolgt insoweit ergänzend auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
+Die Lautstärkemessung im Wohnzimmer erfolgt auf Grundlage des berechtigten Interesses des Vereins am Schutz der Nachtruhe der Bewohner der 0. Etage gemäß Art. 6 Abs. 1 lit. f DSGVO.
 
 
-6.4. Dauer der Datenspeicherung
+8.3. Welchen Zweck erfüllt die Datenerhebung?
 
-Die Buchungsdaten werden zwei Wochen lang gespeichert und anschließend anonymisiert.
+Die Datenerhebung im Rahmen der Buchung dient der Organisation und Sicherstellung eines reibungslosen Buchungsablaufs.
+Darüber hinaus ermöglicht sie die Nachvollziehbarkeit von Buchungen, insbesondere bei Rückfragen, Störungen, Schäden oder sonstigen Problemen im Zusammenhang mit der Nutzung der Räume.
+Die Lautstärkemessung im Wohnzimmer dient dem Schutz der Nachtruhe der Bewohner der 0. Etage und erfolgt auf Grundlage des Beschlusses der Vollversammlung vom 02.07.2025.
+
+
+8.4. Dauer der Datenspeicherung
+
+Die Buchungsdaten werden für ein Jahr gespeichert und anschließend anonymisiert.
 Die im Wohnzimmer erhobenen Lautstärke-Messwerte werden nach einem Monat gelöscht.
 
 
-6.5. Wer Hat Zugang zu den Daten?
+8.5. Wer hat Zugang zu den Daten?
 
-Vereinsmitglieder können innerhalb des Hausnetzes auf das Buchungssystem zugreifen.
-Auf die Lautstärke-Messwerte können die Netzwerk-AG, die Haussprecher und die
-Wohnzimmer-AG zugreifen.
+Vereinsmitglieder können innerhalb des Hausnetzes auf das Raumbuchungssystem zugreifen und die dort sichtbaren Buchungsinformationen einsehen. Sichtbar sind dabei der Buchungszeitraum, der Buchungstitel, die Buchungsbeschreibung sowie die Kontaktdaten des Buchenden, bestehend aus Name, Wohnheim, Zimmernummer und E-Mail-Adresse.
+Zugriff auf die Lautstärke-Messwerte haben, soweit dies für Betrieb, Kontrolle oder Nachverfolgung erforderlich ist, die Netzwerk-AG, die Haussprecher sowie die Wohnzimmer-AG des WEH e.V.
 
 
-6.6. Widerspruchs- und Beseitigungsmöglichkeit
+8.6. Widerspruchs- und Beseitigungsmöglichkeit
 
-Sie haben ein Widerspruchsrecht und können die Daten beseitigen lassen, was allerdings zur
-Folge hat, dass Sie die entsprechende Dienstleistung nicht mehr benutzen können.
+Es besteht gemäß DSGVO ein Widerspruchsrecht gegen Verarbeitungen auf Grundlage berechtigter Interessen. Soweit die Verarbeitung bestimmter Daten für die Bereitstellung, Organisation oder Nachvollziehbarkeit des Raumbuchungssystems erforderlich ist, kann ein Widerspruch dazu führen, dass die Nutzung des Raumbuchungssystems eingeschränkt oder nicht möglich ist.
 
 
 7. Nutzung sonstiger Dienste
